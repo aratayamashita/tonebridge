@@ -6,7 +6,7 @@
 
 ## What is ToneBridge?
 
-ToneBridge is an AI-powered translation tool that goes beyond word-for-word.  
+tonebridge is an AI-powered translation tool that goes beyond word-for-word.  
 It uses **Google Gemini** for translations and **ElevenLabs** for voices, showing you **casual, neutral, and professional** styles side-by-side.  
 
 When ElevenLabs isn’t available, ToneBridge falls back to standard **text-to-speech (TTS)** so you can still hear results out loud.  
@@ -32,7 +32,7 @@ The GitHub page exists as an introduction and information hub.
 
 ## Getting your own API keys
 
-If you want to experiment with similar tools, here’s how to get the keys ToneBridge uses:
+If you want to experiment with similar tools, here’s how to get the keys tonebridge uses:
 
 ### Google Gemini API Key
 1. Go to [Google AI Studio](https://ai.google.dev/).  
@@ -58,5 +58,5 @@ If you want to experiment with similar tools, here’s how to get the keys ToneB
 
 ## About
 
-ToneBridge is built as an experiment in translation with personality.  
+tonebridge is built as an experiment in translation with personality.  
 Words don’t live in one style — and now, your translations don’t have to either.
