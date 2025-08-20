@@ -1,9 +1,4 @@
 # tonebridge
-
-*translation, but with tone.*
-
----
-
 ## What is ToneBridge?
 
 tonebridge is an AI-powered translation tool that goes beyond word-for-word.  
